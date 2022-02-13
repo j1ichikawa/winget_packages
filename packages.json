@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-02-09T16:48:49.440-00:00",
+	"CreationDate" : "2022-02-12T13:25:42.850-00:00",
 	"Sources" : 
 	[
 		{
@@ -97,6 +97,9 @@
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
 				},
 				{
+					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
 				},
 				{
@@ -106,16 +109,13 @@
 					"PackageIdentifier" : "gerardog.gsudo"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
 				},
 				{
 					"PackageIdentifier" : "JohnMacFarlane.Pandoc"
 				},
 				{
-					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
+					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
@@ -151,10 +151,13 @@
 					"PackageIdentifier" : "CodeSector.TeraCopy"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
+					"PackageIdentifier" : "Python.Python.3"
 				},
 				{
-					"PackageIdentifier" : "Python.Python.3"
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				}
 			],
 			"SourceDetails" : 
